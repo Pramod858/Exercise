@@ -1,0 +1,11 @@
+joblib
+optuna
+streamlit
+zenml
+pandas
+scikit-learn
+numpy
+catboost
+markupsafe
+xgboost
+
